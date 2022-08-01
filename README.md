@@ -30,8 +30,10 @@
 # Setup List when I format my own local desktop
 ---
 [1] Setting Wire Connection
+  - Ref my own picture
 ---
 [2] Setting Our Lab Excel
+  - Direct access using google driver
 ---
 [3] Setting Dooray Messenger
   - [Reference Site](https://kaist.gov-dooray.com/messenger)
