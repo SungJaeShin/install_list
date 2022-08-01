@@ -10,24 +10,24 @@
   - [Reference Site](https://www.howtoinstall.me/ubuntu/18-04/terminator/)
 ---
 [4] Install Zoom
-  - Reference Site: []
+  - [Reference Site](https://zoom.us/download?os=linux)
 ---
 [4] Install OpenCV including Contrib
-  - Reference Site: []
+  - [Reference Site](https://heathered-freon-621.notion.site/OpenCV-How-to-install-appropriate-OpenCV-version-86275642fc924df5b1c258f077a94387)
 ---
 [5] Install Ceres Solver
-  - Reference Site: []
+  - [Reference Site](http://ceres-solver.org/installation.html)
 --- 
 [6] Install Team Viewer
-  - Reference Site: [] 
+  - [Reference Site](https://www.teamviewer.com/en/download/linux/)
 ---
 [7] Install Sticky Note
-  - Reference Site: []
+  - [Reference Site](https://itsubuntu.com/how-to-install-sticky-notes-in-ubuntu/)
 ---
 [8] Install Chrome 
-  - Reference Site: []
-  
-  
+  - [Reference Site](https://linuxhint.com/install_google_chrome_ubuntu_18-04/)
+---
+# Setup List when I format my own local desktop
 ---
 [1] Setting Wire Connection
 ---
