@@ -1,7 +1,7 @@
 # Install List when I format my own local desktop
 ---
 [1] Install Korea KeyBoard
-  - ![Reference Site](https://xangmin.tistory.com/16)
+  - [Reference Site](https://xangmin.tistory.com/16/)
 ---
 [2] Install ROS Melodic
   - Reference Site: [] 
