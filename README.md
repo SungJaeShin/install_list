@@ -34,8 +34,11 @@
 [2] Setting Our Lab Excel
 ---
 [3] Setting Dooray Messenger
+  - [Reference Site](https://kaist.gov-dooray.com/messenger)
 ---
 [4] Setting Hilti SLAM Challenge
+  - [Reference Site](https://hilti-challenge.com/index.html)
 ---
 [5] Setting Our Lab Zoom URL
+  - [Reference Site](https://kaist.zoom.us/j/6597631843?pwd=YUcwbkRDRkZkN2hPT0JZRWpOMVhjdz09#success)
 ---
