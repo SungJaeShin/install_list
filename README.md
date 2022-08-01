@@ -4,10 +4,10 @@
   - [Reference Site](https://xangmin.tistory.com/16)
 ---
 [2] Install ROS Melodic
-  - Reference Site: [] 
+  - [Reference Site](http://wiki.ros.org/melodic/Installation/Ubuntu)
 ---
 [3] Install Terminator
-  - Reference Site: []
+  - [Reference Site](https://www.howtoinstall.me/ubuntu/18-04/terminator/)
 ---
 [4] Install Zoom
   - Reference Site: []
